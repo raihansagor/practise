@@ -1,0 +1,35 @@
+.body {
+    margin: 10px;
+    
+}
+.container {
+    border: 2px solid burlywood;
+    background-color: darkorchid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    height: 90vh;
+    
+    
+    
+}
+.box {
+    height: 5rem;
+    width: 5rem;
+    margin: 1rem;
+    background-color: deepskyblue;
+    flex-basis: 10rem;
+    flex-grow: 1;
+/*}
+.box-one {
+    background-color: darkgoldenrod;
+}
+.box-two {
+    background-color: darkmagenta;
+}
+.box-three {
+    background-color: rgb(37, 161, 32);
+}*/
